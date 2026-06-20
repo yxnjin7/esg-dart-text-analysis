@@ -171,7 +171,7 @@ esg-dart-text-analysis/
 - [분석 노트북](./notebooks/final_analysis.ipynb)
 - [최종 보고서](./docs/final_report.docx)
 - [발표자료](./docs/final_presentation.pdf)
-- 
+  
 ## 11. 주의사항
 
 학습 및 포트폴리오 목적의 프로젝트
