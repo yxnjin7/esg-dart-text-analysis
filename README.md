@@ -1,5 +1,4 @@
-# yxnjin200404
-# Data Analysis Portfolio
+# Portfolio
 
 ## 🔧 Tech Stack
 - Python, Pandas, Scikit-learn
