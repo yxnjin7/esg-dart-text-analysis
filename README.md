@@ -160,9 +160,9 @@ esg-dart-text-analysis/
 ├── README.md
 ├── notebooks/
 │   └── final_analysis.ipynb
-├── outputs/
-│   ├── figures/
-│   └── tables/
+├── docs/
+│   ├── final_report.docx
+│   └── final_presentation.pdf
 ├── requirements.txt
 └── .gitignore
 ```
